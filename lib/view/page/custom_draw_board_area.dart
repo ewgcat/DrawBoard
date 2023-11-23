@@ -50,9 +50,6 @@ class _CustomDrawBoardAreaState extends State<CustomDrawBoardArea> {
           buildShareScreenBtn(),
 //          保存成图片
           buildImgSaverBtn(),
-          SizedBox(
-            width: 30,
-          )
         ],
       ),
 //      核心部分：画板
